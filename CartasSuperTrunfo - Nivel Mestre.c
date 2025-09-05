@@ -108,20 +108,20 @@
   // Comparar as Cartas 1 e 2:
 
     ResultadoCarta1 = Populacao1 > Populacao2;
-    ResultadoCarta1 = Area1 > Area2;
-    ResultadoCarta1 = PIB1 > PIB2;
-    ResultadoCarta1 = NumerodePontosTuristicos1 > NumerodePontosTuristicos2;
-    ResultadoCarta1 = DensidadePopulacional1 > DensidadePopulacional2;
-    ResultadoCarta1 = PIBperCapita1 > PIBperCapita2;
-    ResultadoCarta1 = SuperPoder1 > SuperPoder2;
+      ResultadoCarta1 = Area1 > Area2;
+        ResultadoCarta1 = PIB1 > PIB2;
+          ResultadoCarta1 = NumerodePontosTuristicos1 > NumerodePontosTuristicos2;
+            ResultadoCarta1 = DensidadePopulacional1 > DensidadePopulacional2;
+              ResultadoCarta1 = PIBperCapita1 > PIBperCapita2;
+                ResultadoCarta1 = SuperPoder1 > SuperPoder2;
 
     ResultadoCarta2 = Populacao2 > Populacao1;
-    ResultadoCarta2 = Area2 > Area1;
-    ResultadoCarta2 = PIB2 > PIB1;
-    ResultadoCarta2 = NumerodePontosTuristicos2 > NumerodePontosTuristicos1;
-    ResultadoCarta2 = DensidadePopulacional2 > DensidadePopulacional1;
-    ResultadoCarta2 = PIBperCapita2 > PIBperCapita1;
-    ResultadoCarta2 = SuperPoder2 > SuperPoder1;
+      ResultadoCarta2 = Area2 > Area1;
+        ResultadoCarta2 = PIB2 > PIB1;
+          ResultadoCarta2 = NumerodePontosTuristicos2 > NumerodePontosTuristicos1;
+            ResultadoCarta2 = DensidadePopulacional2 > DensidadePopulacional1;
+              ResultadoCarta2 = PIBperCapita2 > PIBperCapita1;
+                ResultadoCarta2 = SuperPoder2 > SuperPoder1;
 
    /** Exibir as Informações da Carta 1 */
   // Exibir os Resultados das Comparações!
@@ -168,8 +168,6 @@
   // Exibir o Super Poder Destacado!
 
     printf("Super Poder: \033[1;33m%'.2f\033[0m(%u)\n\n", SuperPoder2, ResultadoCarta2);
-
-
 
 
     

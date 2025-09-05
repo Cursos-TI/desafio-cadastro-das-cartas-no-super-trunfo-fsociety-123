@@ -101,8 +101,6 @@
     printf("Pontos Turísticos: %d Lugares\n", NumerodePontosTuristicos2);
 
     
-
-    
     return 0;
  }
 
