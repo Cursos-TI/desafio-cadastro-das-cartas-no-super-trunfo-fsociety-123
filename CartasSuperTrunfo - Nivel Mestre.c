@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
         // Desafio: Super Trunfo De Paises Versão 1.3;
-        // Dividir Para Conquistar!
+        // Dividir Para Conquistar
 
         int main() {
 

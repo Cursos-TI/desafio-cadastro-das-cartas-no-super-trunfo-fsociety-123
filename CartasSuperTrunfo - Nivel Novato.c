@@ -2,7 +2,7 @@
    #include <stdlib.h>
 
         // Desafio: Super Trunfo De Paises!
-        // Dividir Para Conquistar!
+        // Dividir Para Conquistar
 
         // Criar as Variaveis e Declarar Cada Uma!
 
